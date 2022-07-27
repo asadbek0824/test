@@ -1,2 +1,2 @@
-#frontend devoloper
+#frontend
 Asadbek Frontend Devoloper
